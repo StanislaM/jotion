@@ -16,7 +16,7 @@ const Heading = (props: Props) => {
     return (
         <div className="max-w-3xl space-y-4">
             <h1 className="text-3xl font-bold sm:text-5xl md:text-6xl">
-                Youre Ideas, Documents & Plans. Unified. Welcome to
+                Youre Ideas, Documents & Plans. Unified. Welcome to&nbsp;
                 <span className="underline">Jotion</span>
             </h1>
 
